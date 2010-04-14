@@ -1,0 +1,7 @@
+## Interface: 30303
+## Version: 0.0.1
+## Title: Scruffy Mod
+## Author: Scruffy Bob
+## Notes: Custom UI from Scruffy Bob
+
+lib\oUF\oUF.xml
